@@ -1,10 +1,10 @@
 {
-  "title": "Title of the website. Update me.",
+  "title": "COMM 230W Blog",
   "url": "https://update-me.com",
   "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
+  "description": "Blog assignment page for skill assignment 5.",
   "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
+  "googleAnalyticsId": "GA ID.  me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
     "subtitle": "Subtitle. Update me.",
@@ -17,10 +17,7 @@
     "url": "https://update-me.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
-  },
-  "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "",
+    "twitterHandle": ""
   }
 }

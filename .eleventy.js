@@ -181,7 +181,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("fonts");
   eleventyConfig.addPassthroughCopy("_headers");
 
-  // We need to rebuild upon JS change to update the CSP.
+
   eleventyConfig.addWatchTarget("./js/");
   // We need to rebuild on CSS change to inline it.
   eleventyConfig.addWatchTarget("./css/");
