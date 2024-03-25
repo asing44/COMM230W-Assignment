@@ -21,12 +21,12 @@
   "pre-commit": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/11ty/eleventy-base-blog.git"
+    "url": "git://github.com/asing44/COMM230W-Assignment.git"
   },
   "bugs": {
     "url": "https://github.com/11ty/eleventy-base-blog/issues"
   },
-  "homepage": "https://github.com/11ty/eleventy-base-blog#readme",
+  "homepage": "https://asing44.github.io/COMM230W-Assignment/",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-navigation": "^0.1.3",
