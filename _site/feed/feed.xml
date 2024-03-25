@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>COMM 230W Blog</title>
+	<subtitle>Subtitle. Update me.</subtitle>
+	
+	<link href="https://update-me.com/feed/feed.xml" rel="self"/>
+	<link href="https://update-me.com"/>
+	<updated>2024-03-23T20:00:00-04:00</updated>
+	<id>https://update-me.com</id>
+	<author>
+		<name></name>
+		<email></email>
+	</author>
+	
+	<entry>
+		<title>Master Your Notes: How Obsidian and Zettelkasten Unleash Organizational Power</title>
+		<link href="https://update-me.com/posts/secondpost/"/>
+		<updated>2024-03-23T20:00:00-04:00</updated>
+		<id>https://update-me.com/posts/secondpost/</id>
+		<content type="html">
+		  &lt;p&gt;The digital age has transformed how we capture, organize, and retrieve information. Obsidian, a powerful knowledge base application, combined with the Zettelkasten method, has revolutionized personal knowledge management. In this blog, we delve into how integrating &lt;a href=&quot;https://obsidian.md/&quot;&gt;Obsidian&lt;/a&gt; with &lt;a href=&quot;https://zettelkasten.de/overview/#knowledge-management&quot;&gt;Zettelkasten&lt;/a&gt; can elevate your note-taking and learning to new heights.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-obsidian-and-why-should-you-care%3F&quot;&gt;What is Obsidian and Why Should You Care? &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-obsidian-and-why-should-you-care%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Obsidian is more than just a note-taking app; it&#39;s a second brain that helps you store and interlink your thoughts, creating a vast web of knowledge. Its markdown-based system allows for rapid note creation, while its backlinking and graph view features enable users to visualize connections between notes, fostering a deep understanding of the interrelated concepts.&lt;/p&gt;
+&lt;h2 id=&quot;how-does-the-zettelkasten-method-enhance-obsidian%3F&quot;&gt;How Does the Zettelkasten Method Enhance Obsidian? &lt;a class=&quot;direct-link&quot; href=&quot;#how-does-the-zettelkasten-method-enhance-obsidian%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Zettelkasten, a German term meaning &amp;quot;slip box,&amp;quot; is a method of knowledge management that emphasizes the importance of connecting individual notes to form a comprehensive network of ideas. Implementing Zettelkasten in Obsidian transforms it from a simple note-taking tool into a dynamic knowledge system, where each note or &#39;zettel&#39; serves as a building block in a larger intellectual structure.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Zettelkasten Step in Obsidian&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://update-me.com/img/Zettelkasten-in-Obsidian.png&quot; alt=&quot;Zettelkasten Step in Obsidian&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-makes-obsidian-with-zettelkasten-unique%3F&quot;&gt;What Makes Obsidian with Zettelkasten Unique? &lt;a class=&quot;direct-link&quot; href=&quot;#what-makes-obsidian-with-zettelkasten-unique%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Unlike traditional note-taking apps, Obsidian, coupled with Zettelkasten, focuses on the relationships between notes. This approach helps in building a more comprehensive understanding of subjects and fosters creative thinking.&lt;/p&gt;
+&lt;h3 id=&quot;links-for-relative-resources&quot;&gt;Links For Relative Resources &lt;a class=&quot;direct-link&quot; href=&quot;#links-for-relative-resources&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://obsidian.md/&quot;&gt;Get started with Obsidian&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://zettelkasten.de/overview/#knowledge-management&quot;&gt;Learn more about the Zettelkasten method&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://medium.com/obsidian-observer/fusing-the-two-most-powerful-note-taking-systems-in-obsidian-331d7c4fb2df&quot;&gt;Combining Obsidain and Zettelkasten&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This video on &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=https://www.youtube.com/watch%3Fv%3DE6ySG7xYgjY&amp;amp;ved=2ahUKEwinsMDRoI6FAxVVJzQIHY0rA-QQwqsBegQIDBAG&amp;amp;usg=AOvVaw1iuSSXZ0d2ut2WtoPrTrIM&quot;&gt;Zettelkasten in Obsidian&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;real-life-applications&quot;&gt;Real-Life Applications &lt;a class=&quot;direct-link&quot; href=&quot;#real-life-applications&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Professionals and students have harnessed Obsidian and Zettelkasten for research projects, learning new subjects, and managing daily tasks and notes. The method&#39;s flexibility and Obsidian&#39;s robust features cater to diverse needs, from academic research to creative writing.&lt;/p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion &lt;a class=&quot;direct-link&quot; href=&quot;#conclusion&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Integrating Obsidian with the Zettelkasten method not only optimizes your note-taking process but also significantly enhances your ability to think, learn, and create. By adopting this powerful combination, you can build a personalized knowledge management system that grows and evolves with you, turning information chaos into structured insight.&lt;/p&gt;
+&lt;hr&gt;
+
+			
+				
+				
+				&lt;img src=&quot;https://update-me.com/api/ga?v=1&amp;_v=j83&amp;t=pageview&amp;dr=https%3A%2F%2Frss-feed-reader.com&amp;_s=1&amp;dh=update-me.com&amp;dp=%2Fposts%2Fsecondpost%2F&amp;ul=en-us&amp;de=UTF-8&amp;dt=Master%20Your%20Notes%3A%20How%20Obsidian%20and%20Zettelkasten%20Unleash%20Organizational%20Power&amp;tid=GA ID.  me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics&quot; width=&quot;1&quot; height=&quot;1&quot; style=&quot;display:none&quot; alt=&quot;&quot;&gt;
+			
+		</content>
+	</entry>
+</feed>
