@@ -3,7 +3,7 @@
 	<title>COMM 230W Blog</title>
 	<subtitle>Subtitle. Update me.</subtitle>
 	
-	<link href="https://update-me.com/feed/feed.xml" rel="self"/>
+	<link href="https://update-me.com/COMM230W-Assignment/feed/feed.xml" rel="self"/>
 	<link href="https://update-me.com"/>
 	<updated>2024-03-23T20:00:00-04:00</updated>
 	<id>https://update-me.com</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Master Your Notes: How Obsidian and Zettelkasten Unleash Organizational Power</title>
-		<link href="https://update-me.com/posts/secondpost/"/>
+		<link href="https://update-me.com/COMM230W-Assignment/posts/secondpost/"/>
 		<updated>2024-03-23T20:00:00-04:00</updated>
-		<id>https://update-me.com/posts/secondpost/</id>
+		<id>https://update-me.com/COMM230W-Assignment/posts/secondpost/</id>
 		<content type="html">
 		  &lt;p&gt;The digital age has transformed how we capture, organize, and retrieve information. Obsidian, a powerful knowledge base application, combined with the Zettelkasten method, has revolutionized personal knowledge management. In this blog, we delve into how integrating &lt;a href=&quot;https://obsidian.md/&quot;&gt;Obsidian&lt;/a&gt; with &lt;a href=&quot;https://zettelkasten.de/overview/#knowledge-management&quot;&gt;Zettelkasten&lt;/a&gt; can elevate your note-taking and learning to new heights.&lt;/p&gt;
 &lt;h2 id=&quot;what-is-obsidian-and-why-should-you-care%3F&quot;&gt;What is Obsidian and Why Should You Care? &lt;a class=&quot;direct-link&quot; href=&quot;#what-is-obsidian-and-why-should-you-care%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
